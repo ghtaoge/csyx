@@ -10,6 +10,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("哈哈哈");
+            Console.WriteLine("怎么办");
         }
     }
 }
